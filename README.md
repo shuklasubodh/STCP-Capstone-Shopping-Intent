@@ -2,10 +2,10 @@
 
 SCTP Capstone Project data based on Shopping intent of customers on a website
 
- ![Screenshot of dashboard](https://imgur.com/PdJz2ax.jpeg)
-
+![Screenshot of dashboard](https://imgur.com/PdJz2ax.jpeg)
 ![Screenshot of dashboard](https://imgur.com/2JsS69R.jpeg) 
-![Screenshot of dashboard](https://imgur.com/EGqZrtC.jpeg)
+![Screenshot of dashboard](https://imgur.com/Z58meVM.jpeg)
+![Screenshot of dashboard](https://imgur.com/nu4jPSc.jpeg)
 
 [Link to dataset](https://drive.google.com/file/d/15QF7pSUJkCzldLHn4pDC1zfpmf4m6mSW/view?usp=sharing)
 
